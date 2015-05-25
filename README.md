@@ -2,4 +2,4 @@
 
 [![MUI](https://www.muicss.com/static/favicons/icon-192x192.png)](https://www.muicss.com)
 
-This repository contains designs files to make it easier to make mockups using MUI components.
+This repository contains designs files to make mockups using MUI components.
