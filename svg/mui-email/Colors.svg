@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="600px" height="650px" viewBox="0 0 600 650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Colors</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Colors" sketch:type="MSArtboardGroup">
+            <text id="Primary-Color" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+                <tspan x="21" y="193">Primary Color</tspan>
+            </text>
+            <text id="Primary-Color---Dark" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+                <tspan x="242" y="193">Primary Color - Dark</tspan>
+            </text>
+            <text id="Primary-Color---Ligh" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+                <tspan x="465" y="193">Primary Color - Light</tspan>
+            </text>
+            <text id="Secondary-colors" sketch:type="MSTextLayer" font-family=".Helvetica Neue DeskInterface" font-size="23" font-weight="normal" fill="#7A7A7A">
+                <tspan x="25" y="259">Secondary colors</tspan>
+            </text>
+            <text id="Accent-Color" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+                <tspan x="25" y="396">Accent Color</tspan>
+            </text>
+            <text id="Accent-Color---Dark" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+                <tspan x="245" y="396">Accent Color - Dark</tspan>
+            </text>
+            <text id="Accent-Color---Light" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+                <tspan x="468" y="396">Accent Color - Light</tspan>
+            </text>
+            <text id="Tertiary-colors" sketch:type="MSTextLayer" font-family=".Helvetica Neue DeskInterface" font-size="23" font-weight="normal" fill="#7A7A7A">
+                <tspan x="24" y="457">Tertiary colors</tspan>
+            </text>
+            <text id="Danger-Color" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+                <tspan x="25" y="594">Danger Color</tspan>
+            </text>
+            <text id="Primary-colors" sketch:type="MSTextLayer" font-family=".Helvetica Neue DeskInterface" font-size="23" font-weight="normal" fill="#7A7A7A">
+                <tspan x="21" y="52">Primary colors</tspan>
+            </text>
+            <rect id="MUI-&gt;-Danger-Color" fill="#F44336" sketch:type="MSShapeGroup" x="25" y="478" width="100" height="100"></rect>
+            <rect id="MUI-&gt;-Accent-Color---Light" fill="#FF80AB" sketch:type="MSShapeGroup" x="465" y="280" width="100" height="100"></rect>
+            <rect id="MUI-&gt;-Accent-Color---Dark" fill="#F50057" sketch:type="MSShapeGroup" x="249" y="280" width="100" height="100"></rect>
+            <rect id="MUI-&gt;-Accent-Color" fill="#FF4081" sketch:type="MSShapeGroup" x="25" y="280" width="100" height="100"></rect>
+            <rect id="MUI-&gt;-Primary-Color---Light" fill="#BBDEFB" sketch:type="MSShapeGroup" x="465" y="75" width="100" height="100"></rect>
+            <rect id="MUI-&gt;-Primary-Color---Dark" fill="#1976D2" sketch:type="MSShapeGroup" x="242" y="75" width="100" height="100"></rect>
+            <rect id="MUI-&gt;-Primary-Color" fill="#2196F3" sketch:type="MSShapeGroup" x="21" y="75" width="100" height="100"></rect>
+        </g>
+    </g>
+</svg>

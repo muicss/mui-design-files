@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="600px" height="900px" viewBox="0 0 600 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Tabs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Tabs" sketch:type="MSArtboardGroup">
+            <g id="MUI-&gt;-Tabs" sketch:type="MSLayerGroup" transform="translate(51.000000, 51.000000)">
+                <rect id="Active-Tab-Border" fill="#2196F3" sketch:type="MSShapeGroup" transform="translate(50.500000, 36.000000) scale(1, -1) translate(-50.500000, -36.000000) " x="0.5" y="35" width="100" height="2"></rect>
+                <text id="TAB-3-Label" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="420" fill="#000000">
+                    <tspan x="269.5" y="15">TAB-3</tspan>
+                </text>
+                <text id="TAB-2-Label" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="420" fill="#000000">
+                    <tspan x="150.5" y="14">TAB-2</tspan>
+                </text>
+                <text id="TAB-1-Label" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="420" fill="#2196F3">
+                    <tspan x="29.5" y="15">TAB-1</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
