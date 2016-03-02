@@ -1,85 +1,83 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="600px" height="1000px" viewBox="0 0 600 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1200px" height="1000px" viewBox="0 0 1200 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
-    <title>Examples &gt; Blog (Small)</title>
+    <title>Examples &gt; Blog (Extra Large)</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Examples-&gt;-Blog-(Small)">
-            <text id="PINNED-POST" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill="#000000">
-                <tspan x="15" y="133">PINNED POST</tspan>
+        <g id="Examples-&gt;-Blog-(Extra-Large)">
+            <rect id="Rectangle-97" fill="#E57373" x="0" y="0" width="180" height="1000"></rect>
+            <text id="SAMPLE-BLOG" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="34" fill="#FFFFFF">
+                <tspan x="20" y="63">SAMPLE </tspan>
+                <tspan x="20" y="97.9519958">BLOG</tspan>
             </text>
-            <path d="M15,138 L585,138" id="Line" stroke-opacity="0.12" stroke="#000000" stroke-linecap="square"></path>
+            <text id="PINNED-POST" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill="#000000">
+                <tspan x="269" y="55">PINNED POST</tspan>
+            </text>
+            <path d="M269.5,60.5 L1112.5097,60.5" id="Line" stroke-opacity="0.12" stroke="#000000" stroke-linecap="square"></path>
             <text id="MUI-Acquires-New-Fea" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill="#000000">
-                <tspan x="15" y="192">MUI Acquires New Features</tspan>
+                <tspan x="269" y="114">MUI Acquires New Features</tspan>
             </text>
             <text id="By" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#000000">
-                <tspan x="15" y="213">By</tspan>
+                <tspan x="269" y="135">By</tspan>
             </text>
             <text id="Team-MUI" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill="#2196F3">
-                <tspan x="40" y="211">Team MUI</tspan>
+                <tspan x="292" y="133">Team MUI</tspan>
             </text>
             <text id="3-days-ago" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#000000">
-                <tspan x="117" y="213">3 days ago</tspan>
+                <tspan x="363" y="135">3 days ago</tspan>
             </text>
             <text id="Lorem-ipsum-dolor-si" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#000000">
-                <tspan x="15" y="234">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis aliquam ipsum sed </tspan>
-                <tspan x="15" y="254">dignissim. Sed ac accumsan odio. Vivamus tristique dignissim neque. Interdum et </tspan>
-                <tspan x="15" y="274">malesuada fames ac ante ipsum primis in faucibus. Nunc cursus felis nec purus </tspan>
-                <tspan x="15" y="294">condimentum vestibulum. Donec mauris nisi, sollicitudin eget iaculis id, suscipit id odio.</tspan>
+                <tspan x="269" y="156">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis aliquam ipsum sed dignissim. Sed ac accumsan odio. Vivamus </tspan>
+                <tspan x="269" y="176">tristique dignissim neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc cursus felis nec purus condimentum </tspan>
+                <tspan x="269" y="196">vestibulum. Donec mauris nisi, sollicitudin eget iaculis id, suscipit id odio.</tspan>
             </text>
             <text id="RECENT-POSTS" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill="#000000">
-                <tspan x="15" y="383">RECENT POSTS</tspan>
+                <tspan x="269" y="280">RECENT POSTS</tspan>
             </text>
-            <path d="M15,388 L585,388" id="Line" stroke-opacity="0.12" stroke="#000000" stroke-linecap="square"></path>
+            <path d="M269.5,285.5 L1112.5097,285.5" id="Line" stroke-opacity="0.12" stroke="#000000" stroke-linecap="square"></path>
             <text id="MUI-Acquires-New-Fea" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill="#000000">
-                <tspan x="15" y="442">MUI Acquires New Features</tspan>
+                <tspan x="269" y="339">MUI Acquires New Features</tspan>
             </text>
             <text id="By" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#000000">
-                <tspan x="15" y="463">By</tspan>
+                <tspan x="269" y="360">By</tspan>
             </text>
             <text id="Team-MUI" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill="#2196F3">
-                <tspan x="40" y="461">Team MUI</tspan>
+                <tspan x="292" y="358">Team MUI</tspan>
             </text>
             <text id="3-days-ago" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#000000">
-                <tspan x="117" y="463">3 days ago</tspan>
+                <tspan x="363" y="360">3 days ago</tspan>
             </text>
             <text id="Lorem-ipsum-dolor-si" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#000000">
-                <tspan x="15" y="485">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis aliquam ipsum sed </tspan>
-                <tspan x="15" y="505">dignissim. Sed ac accumsan odio. Vivamus tristique dignissim neque. Interdum et </tspan>
-                <tspan x="15" y="525">malesuada fames ac ante ipsum primis in faucibus. Nunc cursus felis nec purus </tspan>
-                <tspan x="15" y="545">condimentum vestibulum. Donec mauris nisi, sollicitudin eget iaculis id, suscipit id odio.</tspan>
+                <tspan x="269" y="382">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis aliquam ipsum sed dignissim. Sed ac accumsan odio. Vivamus </tspan>
+                <tspan x="269" y="402">tristique dignissim neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc cursus felis nec purus condimentum </tspan>
+                <tspan x="269" y="422">vestibulum. Donec mauris nisi, sollicitudin eget iaculis id, suscipit id odio.</tspan>
             </text>
             <text id="Read-more…" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill="#2196F3">
-                <tspan x="15" y="313">Read more…</tspan>
+                <tspan x="269" y="215">Read more…</tspan>
             </text>
             <text id="Read-more…" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill="#2196F3">
-                <tspan x="15" y="564">Read more…</tspan>
+                <tspan x="269" y="441">Read more…</tspan>
             </text>
             <text id="MUI-Acquires-New-Fea" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill="#000000">
-                <tspan x="15" y="624">MUI Acquires New Features</tspan>
+                <tspan x="269" y="503">MUI Acquires New Features</tspan>
             </text>
             <text id="By" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#000000">
-                <tspan x="15" y="645">By</tspan>
+                <tspan x="269" y="524">By</tspan>
             </text>
             <text id="Team-MUI" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill="#2196F3">
-                <tspan x="40" y="643">Team MUI</tspan>
+                <tspan x="292" y="522">Team MUI</tspan>
             </text>
             <text id="3-days-ago" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#000000">
-                <tspan x="117" y="645">3 days ago</tspan>
+                <tspan x="363" y="524">3 days ago</tspan>
             </text>
             <text id="Lorem-ipsum-dolor-si" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#000000">
-                <tspan x="15" y="667">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis aliquam ipsum sed </tspan>
-                <tspan x="15" y="687">dignissim. Sed ac accumsan odio. Vivamus tristique dignissim neque. Interdum et </tspan>
-                <tspan x="15" y="707">malesuada fames ac ante ipsum primis in faucibus. Nunc cursus felis nec purus </tspan>
-                <tspan x="15" y="727">condimentum vestibulum. Donec mauris nisi, sollicitudin eget iaculis id, suscipit id odio.</tspan>
+                <tspan x="269" y="546">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis aliquam ipsum sed dignissim. Sed ac accumsan odio. Vivamus </tspan>
+                <tspan x="269" y="566">tristique dignissim neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc cursus felis nec purus condimentum </tspan>
+                <tspan x="269" y="586">vestibulum. Donec mauris nisi, sollicitudin eget iaculis id, suscipit id odio.</tspan>
             </text>
             <text id="Read-more…" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill="#2196F3">
-                <tspan x="15" y="747">Read more…</tspan>
-            </text>
-            <rect id="Appbar" fill="#E57373" x="0" y="0" width="600" height="70"></rect>
-            <text id="SAMPLE-BLOG" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="34" fill="#FFFFFF">
-                <tspan x="15" y="50">SAMPLE BLOG</tspan>
+                <tspan x="269" y="605">Read more…</tspan>
             </text>
         </g>
     </g>

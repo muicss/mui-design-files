@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="900px" height="900px" viewBox="0 0 900 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+<svg width="900px" height="900px" viewBox="0 0 900 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
     <title>Panels</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -18,9 +18,9 @@
             </feMerge>
         </filter>
     </defs>
-    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Panels" sketch:type="MSArtboardGroup" filter="url(#filter-1)" fill="#FFFFFF">
-            <rect id="MUI-&gt;-Panel" sketch:type="MSShapeGroup" x="202" y="76" width="496" height="664"></rect>
+    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" filter="url(#filter-1)">
+        <g id="Panels" fill="#FFFFFF">
+            <rect id="MUI-&gt;-Panel" x="202" y="76" width="496" height="664"></rect>
         </g>
     </g>
 </svg>

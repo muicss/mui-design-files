@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1200px" height="1000px" viewBox="0 0 1200 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <title>Examples &gt; Responsive Side Menu (Extra Large)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Examples-&gt;-Responsive-Side-Menu-(Extra-Large)">
+            <g id="Footer" transform="translate(200.000000, 840.000000)">
+                <rect id="Rectangle-97" fill="#2196F3" x="0" y="0" width="1000" height="160"></rect>
+                <text id="Made-with-♥-by-MUI" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                    <tspan x="15" y="34">Made with </tspan>
+                    <tspan x="82.6962891" y="34" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">♥</tspan>
+                    <tspan x="96.6962891" y="34"> by </tspan>
+                    <tspan x="119.261719" y="34" text-decoration="underline">MUI</tspan>
+                </text>
+            </g>
+            <g id="Content" transform="translate(215.000000, 110.000000)" fill="#000000">
+                <text id="Brand.io" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="26.6391753" font-weight="400" line-spacing="34">
+                    <tspan x="0" y="26">Brand.io</tspan>
+                </text>
+                <text id="Lorem-ipsum-dolor-si" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20">
+                    <tspan x="0" y="68">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sollicitudin volutpat molestie. Nullam id tempor nulla. Aenean sit amet urna et elit pharetra </tspan>
+                    <tspan x="0" y="88">consequat. Aliquam fringilla tortor vitae lectus tempor, tempor bibendum nunc elementum. Etiam ultrices tristique diam, vitae sodales metus bibendum id. </tspan>
+                    <tspan x="0" y="108">Suspendisse blandit ligula eu fringilla pretium. Mauris dictum gravida tortor eu lacinia. Donec purus purus, ornare sit amet consectetur sed, dictum sit amet </tspan>
+                    <tspan x="0" y="128">ex. Vivamus sit amet imperdiet tellus. Quisque ultrices risus a massa laoreet, vitae tempus sem congue. Maecenas nec eros ut lectus vehicula rutrum. </tspan>
+                    <tspan x="0" y="148">Donec consequat tincidunt arcu non faucibus. Duis elementum, ante venenatis lacinia cursus, turpis massa congue magna, sed dapibus felis nibh sed tellus. </tspan>
+                    <tspan x="0" y="168">Nam consectetur non nibh vitae sodales. Pellentesque malesuada dolor nec mi volutpat, eget vehicula eros ultrices.</tspan>
+                    <tspan x="0" y="188"></tspan>
+                    <tspan x="0" y="208">Aenean vehicula tortor a tellus porttitor, id elementum est tincidunt. Etiam varius odio tortor. Praesent vel pulvinar sapien. Praesent ac sodales sem. </tspan>
+                    <tspan x="0" y="228">Phasellus id ultrices massa. Sed id erat sit amet magna accumsan vulputate eu at quam. Etiam feugiat semper imperdiet. Sed a sem vitae massa </tspan>
+                    <tspan x="0" y="248">condimentum vestibulum. In vehicula, quam vel aliquet aliquam, enim elit placerat libero, at pretium nisi lorem in ex. Vestibulum lorem augue, semper a </tspan>
+                    <tspan x="0" y="268">efficitur in, dictum vitae libero. Donec velit est, sollicitudin a volutpat quis, iaculis sit amet metus. Nulla at ante nec dolor euismod mattis cursus eu nisl.</tspan>
+                    <tspan x="0" y="288"></tspan>
+                    <tspan x="0" y="308">Quisque interdum facilisis consectetur. Nam eu purus purus. Curabitur in ligula quam. Nam euismod ligula eu tellus pellentesque laoreet. Aliquam erat </tspan>
+                    <tspan x="0" y="328">volutpat. Curabitur eu bibendum velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc efficitur lorem sit amet </tspan>
+                    <tspan x="0" y="348">quam porta pharetra. Cras ultricies pellentesque eros sit amet semper.</tspan>
+                </text>
+            </g>
+            <g id="Appbar" transform="translate(200.000000, 0.000000)">
+                <rect id="Appbar-background" fill="#2196F3" x="0" y="0" width="1000" height="64"></rect>
+                <text id="☰" font-family="ArialUnicodeMS, Arial Unicode MS" font-size="20" font-weight="normal" line-spacing="30" fill="#FFFFFF">
+                    <tspan x="15" y="38">☰</tspan>
+                </text>
+            </g>
+            <g id="Sidebar">
+                <rect id="Rectangle-96" fill="#FFFFFF" x="0" y="0" width="200" height="1000"></rect>
+                <text id="Brand.io" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001" fill="#000000">
+                    <tspan x="20" y="41">Brand.io</tspan>
+                </text>
+                <text id="Category-1" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" fill="#000000">
+                    <tspan x="20" y="109">Category 1</tspan>
+                </text>
+                <text id="Category-2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" fill="#000000">
+                    <tspan x="20" y="154">Category 2</tspan>
+                </text>
+                <text id="Category-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" fill="#000000">
+                    <tspan x="20" y="199">Category 3</tspan>
+                </text>
+                <path d="M0.5,63.5 L199.660736,63.5" id="Line" stroke-opacity="0.12" stroke="#000000" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

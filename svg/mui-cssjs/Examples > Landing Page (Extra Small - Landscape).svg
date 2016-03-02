@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="600px" height="320px" viewBox="0 0 600 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+<svg width="600px" height="320px" viewBox="0 0 600 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
     <title>Examples &gt; Landing Page (Extra Small - Landscape)</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -17,30 +17,39 @@
                 <feMergeNode in="SourceGraphic"></feMergeNode>
             </feMerge>
         </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.168 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
     </defs>
-    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Examples-&gt;-Landing-Page-(Extra-Small---Landscape)" sketch:type="MSArtboardGroup">
-            <g id="Button" sketch:type="MSLayerGroup" transform="translate(223.000000, 169.000000)">
-                <rect id="Button-background" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" x="0" y="0" width="153.030721" height="36" rx="2"></rect>
-                <text id="GET-STARTED" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="420" sketch:alignment="middle" line-spacing="14" letter-spacing="0.699999988" fill="#000000">
+    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Examples-&gt;-Landing-Page-(Extra-Small---Landscape)">
+            <g id="Button" transform="translate(223.000000, 169.000000)">
+                <rect id="Button-background" fill="#FFFFFF" filter="url(#filter-1)" x="0" y="0" width="153.030721" height="36" rx="2"></rect>
+                <text id="GET-STARTED" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.699999988" fill="#000000">
                     <tspan x="23" y="26">GET STARTED</tspan>
                 </text>
             </g>
-            <text id="Brand.io" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56" fill="#000000">
+            <text id="Brand.io" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56" fill="#000000">
                 <tspan x="191" y="136">Brand.io</tspan>
             </text>
-            <g id="Appbar" sketch:type="MSLayerGroup">
-                <rect id="Appbar-backround" fill="#2196F3" sketch:type="MSShapeGroup" x="0" y="0" width="600" height="48"></rect>
-                <text id="Pricing" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="420" line-spacing="14" letter-spacing="0.00999999978" fill="#FFFFFF">
+            <g id="Appbar" filter="url(#filter-2)">
+                <rect id="Appbar-backround" fill="#2196F3" x="0" y="0" width="600" height="48"></rect>
+                <text id="Pricing" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill="#FFFFFF">
                     <tspan x="486" y="31">Pricing</tspan>
                 </text>
-                <text id="Login" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="420" line-spacing="14" letter-spacing="0.00999999978" fill="#FFFFFF">
+                <text id="Login" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill="#FFFFFF">
                     <tspan x="547" y="31">Login</tspan>
                 </text>
-                <text id="About" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="420" line-spacing="14" letter-spacing="0.00999999978" fill="#FFFFFF">
+                <text id="About" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill="#FFFFFF">
                     <tspan x="427" y="31">About</tspan>
                 </text>
-                <text id="Brand.io" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001" fill="#FFFFFF">
+                <text id="Brand.io" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001" fill="#FFFFFF">
                     <tspan x="15" y="33">Brand.io</tspan>
                 </text>
             </g>
