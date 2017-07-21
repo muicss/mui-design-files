@@ -1,49 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="500px" height="1852px" viewBox="0 0 500 1852" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
     <title>Typography</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="MUI-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Typography">
             <g id="MUI-&gt;-Typography-(black)" transform="translate(44.500000, 35.000000)" fill="#000000">
-                <text id="Display4" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="112" font-weight="300" line-spacing="112">
+                <text id="Display4" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="112" font-weight="300" line-spacing="112" fill-opacity="0.54">
                     <tspan x="3" y="108">Display4</tspan>
                 </text>
-                <text id="Display3" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56">
+                <text id="Display3" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56" fill-opacity="0.54">
                     <tspan x="3" y="187.296">Display3</tspan>
                 </text>
-                <text id="Display2" font-family="HelveticaNeue, Helvetica Neue" font-size="45" font-weight="normal" line-spacing="45">
+                <text id="Display2" font-family="HelveticaNeue, Helvetica Neue" font-size="45" font-weight="normal" line-spacing="45" fill-opacity="0.54">
                     <tspan x="3" y="244.296">Display2</tspan>
                 </text>
-                <text id="Display1" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="26.6391753" font-weight="400" line-spacing="34">
+                <text id="Display1" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="26.6391753" font-weight="400" line-spacing="34" fill-opacity="0.87">
                     <tspan x="3" y="276.296">Display1</tspan>
                 </text>
-                <text id="Headline" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24">
+                <text id="Headline" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill-opacity="0.87">
                     <tspan x="3" y="313.296">Headline</tspan>
                 </text>
-                <text id="Title" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001">
+                <text id="Title" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001" fill-opacity="0.87">
                     <tspan x="3" y="342.296">Title</tspan>
                 </text>
-                <text id="Subhead" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="0.00999999978">
+                <text id="Subhead" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="0.00999999978" fill-opacity="0.87">
                     <tspan x="3" y="367.296">Subhea</tspan>
                     <tspan x="57.892" y="367.296">d</tspan>
                 </text>
-                <text id="Body2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978">
+                <text id="Body2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill-opacity="0.87">
                     <tspan x="3" y="390.296">Body2</tspan>
                 </text>
-                <text id="Body1" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.00999999978">
+                <text id="Body1" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.00999999978" fill-opacity="0.87">
                     <tspan x="3" y="413.296">Body1</tspan>
                 </text>
-                <text id="Caption" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996">
+                <text id="Caption" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996" fill-opacity="0.54">
                     <tspan x="3" y="431.296">Captio</tspan>
                     <tspan x="38.676" y="431.296">n</tspan>
                 </text>
-                <text id="Menu" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="13" font-weight="400" line-spacing="13" letter-spacing="0.00999999978">
+                <text id="Menu" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="13" font-weight="400" line-spacing="13" letter-spacing="0.00999999978" fill-opacity="0.87">
                     <tspan x="3" y="449.296">Men</tspan>
                     <tspan x="29.277" y="449.296">u</tspan>
                 </text>
-                <text id="BUTTON" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.699999988">
+                <text id="BUTTON" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.699999988" fill-opacity="0.87">
                     <tspan x="0.5" y="467.296">BUTTON</tspan>
                 </text>
             </g>
@@ -52,16 +52,16 @@
                 <text id="BUTTON-2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.699999988" fill="#FFFFFF">
                     <tspan x="20.5" y="470">BUTTON</tspan>
                 </text>
-                <text id="Display4-2" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="112" font-weight="300" line-spacing="112" fill="#FFFFFF">
+                <text id="Display4-2" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="112" font-weight="300" line-spacing="112" fill-opacity="0.7" fill="#FFFFFF">
                     <tspan x="23" y="108.796">Display4</tspan>
                 </text>
-                <text id="Display3-2" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56" fill="#FFFFFF">
+                <text id="Display3-2" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56" fill-opacity="0.7" fill="#FFFFFF">
                     <tspan x="23" y="187.092">Display3</tspan>
                 </text>
-                <text id="Display2-2" font-family="HelveticaNeue, Helvetica Neue" font-size="45" font-weight="normal" line-spacing="45" fill="#FFFFFF">
+                <text id="Display2-2" font-family="HelveticaNeue, Helvetica Neue" font-size="45" font-weight="normal" line-spacing="45" fill-opacity="0.7" fill="#FFFFFF">
                     <tspan x="23" y="244.092">Display2</tspan>
                 </text>
-                <text id="Display1-2" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="34" fill="#FFFFFF">
+                <text id="Display1-2" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="34" fill-opacity="0.7" fill="#FFFFFF">
                     <tspan x="23" y="282.092">Display1</tspan>
                 </text>
                 <text id="Headline-2" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill="#FFFFFF">
@@ -80,7 +80,7 @@
                     <tspan x="23" y="413.092">Body</tspan>
                     <tspan x="55.968" y="413.092">1</tspan>
                 </text>
-                <text id="Caption-2" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996" fill="#FFFFFF">
+                <text id="Caption-2" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996" fill-opacity="0.7" fill="#FFFFFF">
                     <tspan x="23" y="431.092">Captio</tspan>
                     <tspan x="58.676" y="431.092">n</tspan>
                 </text>
@@ -89,44 +89,44 @@
                 </text>
             </g>
             <g id="MUI-&gt;-Typography-(accent)" transform="translate(47.500000, 1111.000000)" fill="#FF4081">
-                <text id="Display4-3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="112" font-weight="300" line-spacing="112">
+                <text id="Display4-3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="112" font-weight="300" line-spacing="112" fill-opacity="0.54">
                     <tspan x="0" y="108">Display4</tspan>
                 </text>
-                <text id="Display3-3" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56">
+                <text id="Display3-3" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56" fill-opacity="0.54">
                     <tspan x="0" y="186.296">Display3</tspan>
                 </text>
-                <text id="Display2-3" font-family="HelveticaNeue, Helvetica Neue" font-size="45" font-weight="normal" line-spacing="45">
+                <text id="Display2-3" font-family="HelveticaNeue, Helvetica Neue" font-size="45" font-weight="normal" line-spacing="45" fill-opacity="0.54">
                     <tspan x="0" y="243.296">Display2</tspan>
                 </text>
-                <text id="Display1-3" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="34">
+                <text id="Display1-3" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="34" fill-opacity="0.54">
                     <tspan x="0" y="281.296">Display1</tspan>
                 </text>
-                <text id="Headline-3" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24">
+                <text id="Headline-3" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill-opacity="0.87">
                     <tspan x="0" y="312.296">Headline</tspan>
                 </text>
-                <text id="Title-3" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001">
+                <text id="Title-3" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001" fill-opacity="0.87">
                     <tspan x="0" y="341.296">Titl</tspan>
                     <tspan x="27.06" y="341.296">e</tspan>
                 </text>
-                <text id="Subhead-3" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="0.00999999978">
+                <text id="Subhead-3" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="0.00999999978" fill-opacity="0.87">
                     <tspan x="0" y="366.296">Subhea</tspan>
                     <tspan x="54.892" y="366.296">d</tspan>
                 </text>
-                <text id="Body2-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978">
+                <text id="Body2-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill-opacity="0.87">
                     <tspan x="0" y="389.296">Body2</tspan>
                 </text>
-                <text id="Body1-3" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.00999999978">
+                <text id="Body1-3" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.00999999978" fill-opacity="0.87">
                     <tspan x="0" y="412.296">Body1</tspan>
                 </text>
-                <text id="Caption-3" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996">
+                <text id="Caption-3" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996" fill-opacity="0.54">
                     <tspan x="0" y="430.296">Captio</tspan>
                     <tspan x="35.676" y="430.296">n</tspan>
                 </text>
-                <text id="Menu-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="13" font-weight="400" line-spacing="13" letter-spacing="0.00999999978">
+                <text id="Menu-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="13" font-weight="400" line-spacing="13" letter-spacing="0.00999999978" fill-opacity="0.87">
                     <tspan x="0" y="448.296">Men</tspan>
                     <tspan x="26.277" y="448.296">u</tspan>
                 </text>
-                <text id="BUTTON-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.699999988">
+                <text id="BUTTON-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.699999988" fill-opacity="0.87">
                     <tspan x="0" y="466.296">BUTTON</tspan>
                 </text>
             </g>
@@ -136,10 +136,10 @@
             <text id="Danger-text" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#F44336">
                 <tspan x="26" y="1703">Danger text</tspan>
             </text>
-            <text id="MUI-&gt;-Link" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill="#2196F3">
+            <text id="MUI-&gt;-Link" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill-opacity="0.87" fill="#2196F3">
                 <tspan x="26" y="1737">https://www.example.com</tspan>
             </text>
-            <text id="MUI-&gt;-Link-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.00999999978" text-decoration="underline" fill="#2196F3">
+            <text id="MUI-&gt;-Link-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.00999999978" fill-opacity="0.87" text-decoration="underline" fill="#2196F3">
                 <tspan x="26" y="1775">https://www.example.com</tspan>
             </text>
         </g>

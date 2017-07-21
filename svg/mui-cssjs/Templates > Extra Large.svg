@@ -1,29 +1,32 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="1200px" height="1000px" viewBox="0 0 1200 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="1000px" viewBox="0 0 1200 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #F2F2F2;">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
     <title>Templates &gt; Extra Large</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+        <rect id="path-1" x="15" y="84" width="1170" height="876"></rect>
+        <filter x="-0.5%" y="-0.5%" width="101.0%" height="101.4%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.084 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.112 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
             <feMerge>
                 <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
                 <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
-                <feMergeNode in="SourceGraphic"></feMergeNode>
             </feMerge>
         </filter>
     </defs>
-    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="MUI-Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Templates-&gt;-Extra-Large">
-            <g id="MUI-&gt;-Appbar-Large" fill="#2196F3">
+            <g id="MUI/Appbar/Extra-Large" fill="#2196F3">
                 <rect id="Appbar-Background" x="0" y="0" width="1200" height="64"></rect>
             </g>
-            <rect id="MUI-&gt;-Panel" fill="#FFFFFF" filter="url(#filter-1)" x="15" y="84" width="1170" height="876"></rect>
+            <g id="MUI-&gt;-Panel">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
         </g>
     </g>
 </svg>

@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="600px" height="900px" viewBox="0 0 600 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
     <title>Tabs</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="MUI-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Tabs">
             <g id="MUI-&gt;-Tabs" transform="translate(51.000000, 51.000000)">
                 <rect id="Active-Tab-Border" fill="#2196F3" transform="translate(50.500000, 36.000000) scale(1, -1) translate(-50.500000, -36.000000) " x="0.5" y="35" width="100" height="2"></rect>
-                <text id="TAB-3-Label" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#000000">
+                <text id="TAB-3-Label" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill-opacity="0.87" fill="#000000">
                     <tspan x="269.5" y="15">TAB-3</tspan>
                 </text>
-                <text id="TAB-2-Label" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#000000">
+                <text id="TAB-2-Label" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill-opacity="0.87" fill="#000000">
                     <tspan x="150.5" y="14">TAB-2</tspan>
                 </text>
-                <text id="TAB-1-Label" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#2196F3">
+                <text id="TAB-1-Label" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill-opacity="0.87" fill="#2196F3">
                     <tspan x="29.5" y="15">TAB-1</tspan>
                 </text>
             </g>

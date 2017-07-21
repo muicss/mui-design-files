@@ -1,146 +1,146 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="600px" height="1823px" viewBox="0 0 600 1823" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="1823px" viewBox="0 0 600 1823" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
     <title>Typography</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Typography" sketch:type="MSArtboardGroup">
-            <g id="MUI-&gt;-Typography-(black)" sketch:type="MSLayerGroup" transform="translate(44.000000, 46.000000)" font-family="Helvetica Neue">
-                <text id="Display4" sketch:type="MSTextLayer" font-size="112" font-weight="260" line-spacing="112" fill="#212121">
+    <g id="MUI-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Typography">
+            <g id="MUI-&gt;-Typography-(black)" transform="translate(44.000000, 46.000000)">
+                <text id="Display4" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="112" font-weight="300" line-spacing="112" fill="#212121">
                     <tspan x="1" y="108.211">Display4</tspan>
                 </text>
-                <text id="Display3" sketch:type="MSTextLayer" font-size="56" font-weight="normal" line-spacing="56" fill="#212121">
+                <text id="Display3" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56" fill="#212121">
                     <tspan x="1" y="187.211">Display3</tspan>
                 </text>
-                <text id="Display2" sketch:type="MSTextLayer" font-size="45" font-weight="normal" line-spacing="45" fill="#212121">
+                <text id="Display2" font-family="HelveticaNeue, Helvetica Neue" font-size="45" font-weight="normal" line-spacing="45" fill="#212121">
                     <tspan x="1" y="244.211">Display2</tspan>
                 </text>
-                <text id="Display1" sketch:type="MSTextLayer" font-size="34" font-weight="420" line-spacing="34" fill="#212121">
+                <text id="Display1" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="34" font-weight="400" line-spacing="34" fill="#212121">
                     <tspan x="1" y="283.211">Display1</tspan>
                 </text>
-                <text id="Headline" sketch:type="MSTextLayer" font-size="24" font-weight="normal" line-spacing="24" fill="#212121">
+                <text id="Headline" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill="#212121">
                     <tspan x="1" y="313.211">Headline</tspan>
                 </text>
-                <text id="Title" sketch:type="MSTextLayer" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001" fill="#212121">
+                <text id="Title" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001" fill="#212121">
                     <tspan x="1" y="342.211">Titl</tspan>
                     <tspan x="28.06" y="342.211">e</tspan>
                 </text>
-                <text id="Subhead" sketch:type="MSTextLayer" font-size="16" font-weight="normal" line-spacing="20" letter-spacing="0.00999999978" fill="#212121">
-                    <tspan x="1" y="365.211">Subhea</tspan>
-                    <tspan x="55.892" y="365.211">d</tspan>
+                <text id="Subhead" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="20" letter-spacing="0.00999999978" fill="#212121">
+                    <tspan x="1" y="367.211">Subhea</tspan>
+                    <tspan x="55.892" y="367.211">d</tspan>
                 </text>
-                <text id="Body2" sketch:type="MSTextLayer" font-size="14" font-weight="420" line-spacing="14" letter-spacing="0.00999999978" fill="#212121">
+                <text id="Body2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill="#212121">
                     <tspan x="1" y="390.211">Body</tspan>
                     <tspan x="35.018" y="390.211">2</tspan>
                 </text>
-                <text id="Body1" sketch:type="MSTextLayer" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.00999999978" fill="#212121">
-                    <tspan x="1" y="409.211">Body1</tspan>
+                <text id="Body1" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.00999999978" fill="#212121">
+                    <tspan x="1" y="413.211">Body1</tspan>
                 </text>
-                <text id="Caption" sketch:type="MSTextLayer" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996" fill="#212121">
+                <text id="Caption" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996" fill="#212121">
                     <tspan x="1" y="431.211">Captio</tspan>
                     <tspan x="36.676" y="431.211">n</tspan>
                 </text>
-                <text id="Menu" sketch:type="MSTextLayer" font-size="13" font-weight="420" line-spacing="13" letter-spacing="0.00999999978" fill="#212121">
+                <text id="Menu" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="13" font-weight="400" line-spacing="13" letter-spacing="0.00999999978" fill="#212121">
                     <tspan x="1" y="449.211">Men</tspan>
                     <tspan x="27.277" y="449.211">u</tspan>
                 </text>
-                <text id="BUTTON" sketch:type="MSTextLayer" font-size="14" font-weight="420" sketch:alignment="middle" line-spacing="14" letter-spacing="0.699999988" fill="#000000">
+                <text id="BUTTON" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.699999988" fill-opacity="0.87" fill="#000000">
                     <tspan x="0.5" y="467.211">BUTTON</tspan>
                 </text>
             </g>
-            <g id="MUI-&gt;-Typography-(white)" sketch:type="MSLayerGroup" transform="translate(45.000000, 569.000000)">
-                <rect id="Rectangle-1" fill="#444444" sketch:type="MSShapeGroup" x="0" y="0.211" width="452" height="485"></rect>
-                <text id="BUTTON-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="420" sketch:alignment="middle" line-spacing="14" letter-spacing="0.699999988" fill="#FFFFFF">
+            <g id="MUI-&gt;-Typography-(white)" transform="translate(45.000000, 569.000000)">
+                <rect id="Rectangle-1" fill="#444444" x="0" y="0.211" width="452" height="485"></rect>
+                <text id="BUTTON-2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.699999988" fill="#FFFFFF">
                     <tspan x="22.5" y="469.211">BUTTON</tspan>
                 </text>
-                <text id="Display4-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="112" font-weight="260" line-spacing="112" fill="#FFFFFF">
+                <text id="Display4-2" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="112" font-weight="300" line-spacing="112" fill="#FFFFFF">
                     <tspan x="23" y="108.211">Display4</tspan>
                 </text>
-                <text id="Display3-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56" fill="#FFFFFF">
+                <text id="Display3-2" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56" fill="#FFFFFF">
                     <tspan x="23" y="186.211">Display3</tspan>
                 </text>
-                <text id="Display2-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="45" font-weight="normal" line-spacing="45" fill="#FFFFFF">
+                <text id="Display2-2" font-family="HelveticaNeue, Helvetica Neue" font-size="45" font-weight="normal" line-spacing="45" fill="#FFFFFF">
                     <tspan x="23" y="243.211">Display2</tspan>
                 </text>
-                <text id="Display1-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="34" font-weight="normal" line-spacing="34" fill="#FFFFFF">
+                <text id="Display1-2" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="34" fill="#FFFFFF">
                     <tspan x="23" y="281.211">Display1</tspan>
                 </text>
-                <text id="Headline-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                <text id="Headline-2" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill="#FFFFFF">
                     <tspan x="23" y="312.211">Headline</tspan>
                 </text>
-                <text id="Title-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001" fill="#FFFFFF">
+                <text id="Title-2" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001" fill="#FFFFFF">
                     <tspan x="23" y="341.211">Titl</tspan>
                     <tspan x="50.06" y="341.211">e</tspan>
                 </text>
-                <text id="Subhead-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="0.00999999978" fill="#FFFFFF">
+                <text id="Subhead-2" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="0.00999999978" fill="#FFFFFF">
                     <tspan x="23" y="366.211">Subhead</tspan>
                 </text>
-                <text id="Body2-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="420" line-spacing="14" letter-spacing="0.00999999978" fill="#FFFFFF">
+                <text id="Body2-2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill="#FFFFFF">
                     <tspan x="23" y="389.211">Body2</tspan>
                 </text>
-                <text id="Body1-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.00999999978" fill="#FFFFFF">
+                <text id="Body1-2" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.00999999978" fill="#FFFFFF">
                     <tspan x="23" y="412.211">Body</tspan>
                     <tspan x="55.968" y="412.211">1</tspan>
                 </text>
-                <text id="Caption-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996" fill="#FFFFFF">
+                <text id="Caption-2" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996" fill="#FFFFFF">
                     <tspan x="23" y="430.211">Captio</tspan>
                     <tspan x="58.676" y="430.211">n</tspan>
                 </text>
-                <text id="Menu-2" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="13" font-weight="420" line-spacing="13" letter-spacing="0.00999999978" fill="#FFFFFF">
+                <text id="Menu-2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="13" font-weight="400" line-spacing="13" letter-spacing="0.00999999978" fill="#FFFFFF">
                     <tspan x="23" y="448.211">Menu</tspan>
                 </text>
             </g>
-            <g id="MUI-&gt;-Typography-(accent)" sketch:type="MSLayerGroup" transform="translate(45.000000, 1127.000000)" font-family="Helvetica Neue" fill="#FF4081">
-                <text id="Display4" sketch:type="MSTextLayer" font-size="112" font-weight="260" line-spacing="112">
+            <g id="MUI-&gt;-Typography-(accent)" transform="translate(45.000000, 1127.000000)" fill="#FF4081">
+                <text id="Display4" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="112" font-weight="300" line-spacing="112">
                     <tspan x="0" y="108.211">Display4</tspan>
                 </text>
-                <text id="Display3-3" sketch:type="MSTextLayer" font-size="56" font-weight="normal" line-spacing="56">
+                <text id="Display3-3" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56">
                     <tspan x="0" y="186.211">Display3</tspan>
                 </text>
-                <text id="Display2-3" sketch:type="MSTextLayer" font-size="45" font-weight="normal" line-spacing="45">
+                <text id="Display2-3" font-family="HelveticaNeue, Helvetica Neue" font-size="45" font-weight="normal" line-spacing="45">
                     <tspan x="0" y="243.211">Display2</tspan>
                 </text>
-                <text id="Display1-3" sketch:type="MSTextLayer" font-size="34" font-weight="normal" line-spacing="34">
+                <text id="Display1-3" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="34">
                     <tspan x="0" y="281.211">Display1</tspan>
                 </text>
-                <text id="Headline-3" sketch:type="MSTextLayer" font-size="24" font-weight="normal" line-spacing="24">
+                <text id="Headline-3" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24">
                     <tspan x="0" y="312.211">Headline</tspan>
                 </text>
-                <text id="Title-3" sketch:type="MSTextLayer" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001">
+                <text id="Title-3" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" line-spacing="20" letter-spacing="0.100000001">
                     <tspan x="0" y="341.211">Titl</tspan>
                     <tspan x="27.06" y="341.211">e</tspan>
                 </text>
-                <text id="Subhead-3" sketch:type="MSTextLayer" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="0.00999999978">
+                <text id="Subhead-3" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="0.00999999978">
                     <tspan x="0" y="366.211">Subhea</tspan>
                     <tspan x="54.892" y="366.211">d</tspan>
                 </text>
-                <text id="Body2-3" sketch:type="MSTextLayer" font-size="14" font-weight="420" line-spacing="14" letter-spacing="0.00999999978">
+                <text id="Body2-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978">
                     <tspan x="0" y="389.211">Body</tspan>
                     <tspan x="34.018" y="389.211">2</tspan>
                 </text>
-                <text id="Body1-3" sketch:type="MSTextLayer" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.00999999978">
+                <text id="Body1-3" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.00999999978">
                     <tspan x="0" y="412.211">Body1</tspan>
                 </text>
-                <text id="Caption-3" sketch:type="MSTextLayer" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996">
+                <text id="Caption-3" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0199999996">
                     <tspan x="0" y="430.211">Captio</tspan>
                     <tspan x="35.676" y="430.211">n</tspan>
                 </text>
-                <text id="Menu-3" sketch:type="MSTextLayer" font-size="13" font-weight="420" line-spacing="13" letter-spacing="0.00999999978">
+                <text id="Menu-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="13" font-weight="400" line-spacing="13" letter-spacing="0.00999999978">
                     <tspan x="0" y="448.211">Men</tspan>
                     <tspan x="26.277" y="448.211">u</tspan>
                 </text>
-                <text id="BUTTON-3" sketch:type="MSTextLayer" font-size="14" font-weight="420" line-spacing="14" letter-spacing="0.699999988">
+                <text id="BUTTON-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.699999988">
                     <tspan x="0" y="466.211">BUTTON</tspan>
                 </text>
             </g>
-            <text id="Status-Text-and-Link" sketch:type="MSTextLayer" font-family=".Helvetica Neue DeskInterface" font-size="23" font-weight="normal" fill="#7A7A7A">
+            <text id="Status-Text-and-Link" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="23" font-weight="normal" fill="#7A7A7A">
                 <tspan x="45" y="1688">Status Text and Links</tspan>
             </text>
-            <text id="Danger-text" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#F44336">
+            <text id="Danger-text" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#F44336">
                 <tspan x="45" y="1728">Danger text</tspan>
             </text>
-            <text id="http://www.example.c" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="14" font-weight="normal" fill="#2196F3">
+            <text id="http://www.example.c" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#2196F3">
                 <tspan x="45" y="1764">http://www.example.com</tspan>
             </text>
         </g>

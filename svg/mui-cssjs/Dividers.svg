@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="620px" height="900px" viewBox="0 0 620 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
     <title>Dividers</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="MUI-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Dividers">
             <path d="M44.5,100.5 L585.514771,100.5" id="Line" stroke-opacity="0.12" stroke="#000000" stroke-linecap="square"></path>
             <path d="M45.5,220.5 L45.5,556.513397" id="Line-Copy" stroke-opacity="0.12" stroke="#000000" stroke-linecap="square"></path>
@@ -14,7 +14,6 @@
             <text id="Vertical-Divider" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="23" font-weight="normal" fill="#7A7A7A">
                 <tspan x="43.5" y="197">Vertical Divider</tspan>
             </text>
-            <path id="Path-9" stroke="#979797" d=""></path>
         </g>
     </g>
 </svg>

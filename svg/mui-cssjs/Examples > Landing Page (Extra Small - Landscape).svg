@@ -1,45 +1,54 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="600px" height="320px" viewBox="0 0 600 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
     <title>Examples &gt; Landing Page (Extra Small - Landscape)</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+        <rect id="path-1" x="0" y="0" width="153.030721" height="36" rx="2"></rect>
+        <filter x="-4.6%" y="-13.9%" width="109.1%" height="138.9%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.084 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.168 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
             <feMerge>
                 <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
                 <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
-                <feMergeNode in="SourceGraphic"></feMergeNode>
             </feMerge>
         </filter>
-        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+        <filter x="-0.7%" y="-6.2%" width="101.3%" height="116.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.168 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
             <feMerge>
                 <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
                 <feMergeNode in="SourceGraphic"></feMergeNode>
             </feMerge>
         </filter>
     </defs>
-    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="MUI-Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Examples-&gt;-Landing-Page-(Extra-Small---Landscape)">
             <g id="Button" transform="translate(223.000000, 169.000000)">
-                <rect id="Button-background" fill="#FFFFFF" filter="url(#filter-1)" x="0" y="0" width="153.030721" height="36" rx="2"></rect>
-                <text id="GET-STARTED" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.699999988" fill="#000000">
+                <g id="Button-background">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="GET-STARTED" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.699999988" fill-opacity="0.87" fill="#000000">
                     <tspan x="23" y="26">GET STARTED</tspan>
                 </text>
             </g>
-            <text id="Brand.io" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56" fill="#000000">
+            <text id="Brand.io" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" line-spacing="56" fill-opacity="0.87" fill="#000000">
                 <tspan x="191" y="136">Brand.io</tspan>
             </text>
-            <g id="Appbar" filter="url(#filter-2)">
-                <rect id="Appbar-backround" fill="#2196F3" x="0" y="0" width="600" height="48"></rect>
+            <g id="Appbar" filter="url(#filter-3)">
+                <g id="MUI/Appbar/Extra-Small-Landscape" fill="#2196F3">
+                    <rect id="Appbar-background" x="0" y="0" width="600" height="48"></rect>
+                </g>
                 <text id="Pricing" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill="#FFFFFF">
                     <tspan x="486" y="31">Pricing</tspan>
                 </text>

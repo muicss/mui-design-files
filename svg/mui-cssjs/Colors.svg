@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="600px" height="900px" viewBox="0 0 600 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
     <title>Colors</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="MUI-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Colors">
-            <text id="Primary-Color" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+            <text id="Primary-Color" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill-opacity="0.87" fill="#000000">
                 <tspan x="28" y="194">Primary Color</tspan>
             </text>
-            <text id="Primary-Color---Dark" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+            <text id="Primary-Color---Dark" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill-opacity="0.87" fill="#000000">
                 <tspan x="249" y="194">Primary Color - Dark</tspan>
             </text>
-            <text id="Primary-Color---Ligh" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+            <text id="Primary-Color---Ligh" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill-opacity="0.87" fill="#000000">
                 <tspan x="472" y="194">Primary Color - Light</tspan>
             </text>
             <rect id="MUI-&gt;-Primary-Color---Light" fill="#BBDEFB" x="471.5" y="78" width="100" height="100"></rect>
@@ -30,23 +30,27 @@
             <rect id="MUI-&gt;-Accent-Color---Dark" fill="#F50057" x="250" y="300" width="100" height="100"></rect>
             <rect id="MUI-&gt;-Accent-Color---Light" fill="#FF80AB" x="471.5" y="300" width="100" height="100"></rect>
             <rect id="MUI-&gt;-Accent-Color" fill="#FF4081" x="28.5" y="300" width="100" height="100"></rect>
-            <text id="Accent-Color" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+            <text id="Accent-Color" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill-opacity="0.87" fill="#000000">
                 <tspan x="29" y="416">Accent Color</tspan>
             </text>
-            <text id="Accent-Color---Dark" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+            <text id="Accent-Color---Dark" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill-opacity="0.87" fill="#000000">
                 <tspan x="249" y="416">Accent Color - Dark</tspan>
             </text>
-            <text id="Accent-Color---Light" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+            <text id="Accent-Color---Light" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill-opacity="0.87" fill="#000000">
                 <tspan x="472" y="416">Accent Color - Light</tspan>
             </text>
-            <text id="Danger-Color" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+            <text id="Danger-Color" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill-opacity="0.87" fill="#000000">
                 <tspan x="29" y="628.898">Danger Color</tspan>
             </text>
-            <text id="Overlay-Color" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill="#000000">
+            <text id="Overlay-Color" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill-opacity="0.87" fill="#000000">
                 <tspan x="249" y="631">Overlay Color</tspan>
+            </text>
+            <text id="Button-Dark-Color" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="12" letter-spacing="0.0600000024" fill-opacity="0.87" fill="#000000">
+                <tspan x="472" y="631">Button Dark Color</tspan>
             </text>
             <rect id="MUI-&gt;-Danger-Color" fill="#F44336" x="29" y="513.898" width="100" height="100"></rect>
             <rect id="MUI-&gt;-Overlay" fill-opacity="0.2" fill="#000000" x="249" y="514" width="100" height="100"></rect>
+            <rect id="MUI-&gt;-Overlay" fill="#424242" x="472" y="514" width="100" height="100"></rect>
         </g>
     </g>
 </svg>

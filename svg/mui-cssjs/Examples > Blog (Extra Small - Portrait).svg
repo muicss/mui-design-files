@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="320px" height="600px" viewBox="0 0 320 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
     <title>Examples &gt; Blog (Extra Small - Portrait)</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Shared-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="MUI-Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Examples-&gt;-Blog-(Extra-Small---Portrait)">
             <rect id="Rectangle-97" fill="#E57373" x="0" y="0" width="320" height="70"></rect>
             <text id="SAMPLE-BLOG" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="34" fill="#FFFFFF">
                 <tspan x="15" y="50">SAMPLE BLOG</tspan>
             </text>
             <path d="M16.208669,138.5 L306.208669,138.5" id="Line" stroke-opacity="0.12" stroke="#000000" stroke-linecap="square"></path>
-            <text id="MUI-Acquires-New-Fea" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill="#000000">
+            <text id="MUI-Acquires-New-Fea" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill-opacity="0.87" fill="#000000">
                 <tspan x="15" y="193">MUI Acquires New </tspan>
                 <tspan x="15" y="217.671997">Features</tspan>
             </text>
-            <text id="Lorem-ipsum-dolor-si" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#000000">
+            <text id="Lorem-ipsum-dolor-si" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
                 <tspan x="15" y="259.391998">Lorem ipsum dolor sit amet, consectetur </tspan>
                 <tspan x="15" y="279.391998">adipiscing elit. In facilisis aliquam ipsum sed </tspan>
                 <tspan x="15" y="299.391998">dignissim. Sed ac accumsan odio. Vivamus </tspan>
@@ -25,36 +25,36 @@
                 <tspan x="15" y="379.391998">condimentum vestibulum. Donec mauris nisi, </tspan>
                 <tspan x="15" y="399.391998">sollicitudin eget iaculis id, suscipit id odio.</tspan>
             </text>
-            <text id="PINNED-POST" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill="#000000">
+            <text id="PINNED-POST" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill-opacity="0.54" fill="#000000">
                 <tspan x="15" y="134">PINNED POST</tspan>
             </text>
-            <text id="By" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#000000">
+            <text id="By" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill-opacity="0.54" fill="#000000">
                 <tspan x="15" y="238">By</tspan>
             </text>
-            <text id="Team-MUI" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill="#2196F3">
+            <text id="Team-MUI" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill-opacity="0.87" fill="#2196F3">
                 <tspan x="35" y="236">Team MUI</tspan>
             </text>
-            <text id="3-days-ago" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#000000">
+            <text id="3-days-ago" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill-opacity="0.54" fill="#000000">
                 <tspan x="104" y="238">3 days ago</tspan>
             </text>
-            <text id="RECENT-POSTS" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill="#000000">
+            <text id="RECENT-POSTS" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="14" letter-spacing="0.00999999978" fill-opacity="0.54" fill="#000000">
                 <tspan x="15" y="486.048004">RECENT POSTS</tspan>
             </text>
-            <text id="Read-more…" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill="#2196F3">
+            <text id="Read-more…" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill-opacity="0.87" fill="#2196F3">
                 <tspan x="15" y="418.391998">Read more…</tspan>
             </text>
             <path d="M15.208669,493.954102 L305.208669,493.954102" id="Line" stroke-opacity="0.12" stroke="#000000" stroke-linecap="square"></path>
-            <text id="MUI-Acquires-New-Fea" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill="#000000">
+            <text id="MUI-Acquires-New-Fea" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" line-spacing="24" fill-opacity="0.87" fill="#000000">
                 <tspan x="15" y="549.454102">MUI Acquires New </tspan>
                 <tspan x="15" y="574.126099">Features</tspan>
             </text>
-            <text id="By" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#000000">
+            <text id="By" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill-opacity="0.54" fill="#000000">
                 <tspan x="16" y="595">By</tspan>
             </text>
-            <text id="Team-MUI" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill="#2196F3">
+            <text id="Team-MUI" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="0.0129296873" fill-opacity="0.87" fill="#2196F3">
                 <tspan x="36" y="593">Team MUI</tspan>
             </text>
-            <text id="3-days-ago" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill="#000000">
+            <text id="3-days-ago" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="14" fill-opacity="0.54" fill="#000000">
                 <tspan x="105" y="595">3 days ago</tspan>
             </text>
         </g>
